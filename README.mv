@@ -5,4 +5,4 @@ A tool to search and create references for pubmed
 
 Windows
 -------
-Run 
+Run `python setup.py py2exe`
